@@ -1,0 +1,5 @@
+D:\Visual Studio\WindowsFormsApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+D:\Visual Studio\WindowsFormsApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\WindowsFormsApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+D:\Visual Studio\WindowsFormsApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+D:\Visual Studio\WindowsFormsApp1\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
